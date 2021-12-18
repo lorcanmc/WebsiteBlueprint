@@ -1,0 +1,27 @@
+{
+  "name": "WebBlueprint",
+  "version": "1.0.0",
+  "description": "Hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorcanmc/WebsiteBlueprint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorcanmc/WebsiteBlueprint/issues"
+  },
+  "homepage": "https://github.com/lorcanmc/WebsiteBlueprint#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
